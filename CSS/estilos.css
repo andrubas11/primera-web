@@ -64,11 +64,6 @@ li a:hover:not(.active) {
 
 
 
-
-
-
-
-
 #contenido {
 	width: 700px;
 	height: 500px;
@@ -77,11 +72,30 @@ li a:hover:not(.active) {
 	margin-right: 10px;
 }
 
-#contenido h2 {
-	font-size: 40px;
+#contenido {
+	font-size: 20px;
 	text-align: center;
-	line-height: 500px;
+	line-height: 30px;
 	color: black;
+	font-family: 'Franklin Gothic Heavy', arial;
+}
+
+#contenido1 {
+	font-size: 20px;
+	float: left;
+	line-height: 30px;
+	color: black;
+	font-family: 'Franklin Gothic Heavy', arial;
+
+}
+
+
+#contenido1 {
+	width: 700px;
+	height: 500px;
+	float: left;
+	background: #fff;
+	margin-right: 10px;
 }
 
 aside {
