@@ -72,34 +72,12 @@ li a:hover:not(.active) {
 #contenido {
 	font-size: 20px;
 	text-align: center;
-<<<<<<< HEAD
 	line-height: 500px;
 	color: white;
-
-=======
 	line-height: 30px;
-	color: black;
 	font-family: 'Franklin Gothic Heavy', arial;
 }
 
-#contenido1 {
-	font-size: 20px;
-	float: left;
-	line-height: 30px;
-	color: black;
-	font-family: 'Franklin Gothic Heavy', arial;
-
-}
-
-
-#contenido1 {
-	width: 700px;
-	height: 500px;
-	float: left;
-	background: #fff;
-	margin-right: 10px;
->>>>>>> 7bd1646e7c735ef28ab3d8ae24fea91ed9c84458
-}
 
 aside {
 	width: 250px;
@@ -119,7 +97,6 @@ aside h2 {
 footer{
 	background: #F0B429;
 	clear: both
-
 }
 
 footer h2 {
