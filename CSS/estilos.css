@@ -29,6 +29,7 @@ header h1 {
 }
 
 
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -39,6 +40,7 @@ ul {
 
 li {
     float: left;
+
 }
 
 li a {
@@ -49,7 +51,7 @@ li a {
     font:bold 16px flan;
     text-decoration: none;
     font-family: 'Franklin Gothic Heavy', arial;
-    font-size: 20px;
+    font-size: 17px;
     text-shadow: 4px 4px 4px #aaa;
 
 }
@@ -57,6 +59,7 @@ li a {
 li a:hover:not(.active) {
     background-color: #f2d679;
 }
+
 
 #contenido {
 	width: 700px;
@@ -66,12 +69,36 @@ li a:hover:not(.active) {
 	margin-right: 10px;
 }
 
-#contenido h2 {
-	font-size: 40px;
+#contenido {
+	font-size: 20px;
 	text-align: center;
+<<<<<<< HEAD
 	line-height: 500px;
 	color: white;
 
+=======
+	line-height: 30px;
+	color: black;
+	font-family: 'Franklin Gothic Heavy', arial;
+}
+
+#contenido1 {
+	font-size: 20px;
+	float: left;
+	line-height: 30px;
+	color: black;
+	font-family: 'Franklin Gothic Heavy', arial;
+
+}
+
+
+#contenido1 {
+	width: 700px;
+	height: 500px;
+	float: left;
+	background: #fff;
+	margin-right: 10px;
+>>>>>>> 7bd1646e7c735ef28ab3d8ae24fea91ed9c84458
 }
 
 aside {
@@ -87,6 +114,7 @@ aside h2 {
 	text-align: center;
 	line-height: 500px;
 }
+
 
 footer{
 	background: #F0B429;
