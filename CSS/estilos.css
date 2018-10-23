@@ -47,8 +47,16 @@ li a {
     color: white;
     text-align: center;
     padding: 14px 55px;
-    font:bold 16px verdana;
+    font:bold 16px flan;
     text-decoration: none;
+    font-family: 'Franklin Gothic Heavy', arial;
+    font-size: 20px;
+    text-shadow: 4px 4px 4px #aaa;
+
+
+
+
+
 }
 
 li a:hover:not(.active) {
@@ -59,7 +67,7 @@ li a:hover:not(.active) {
 	width: 700px;
 	height: 500px;
 	float: left;
-	background: #005883;
+	background: #fff;
 	margin-right: 10px;
 }
 
@@ -67,6 +75,7 @@ li a:hover:not(.active) {
 	font-size: 40px;
 	text-align: center;
 	line-height: 500px;
+	color: black;
 }
 
 aside {
@@ -91,5 +100,7 @@ footer{
 footer h2 {
 	font-size: 40px;
 	text-align: center;
-	font-style: italic;
+	font-family: 'Franklin Gothic Heavy', arial;
+    font-size: 20px;
+    text-shadow: 4px 4px 4px #aaa;
 }
