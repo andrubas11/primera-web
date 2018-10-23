@@ -4,8 +4,8 @@
 }
 
 body {
-	background: #4444;
-	color: #fff;
+	background: gray;
+	color: white;
 }
 
 #contenedor {
@@ -19,8 +19,7 @@ body {
 
 header{
 	height: 100px;
-	background: #FFFFFF
-
+	background: white;
 }
 
 header h1 {
@@ -46,16 +45,12 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 55px;
+    padding: 14px 45px;
     font:bold 16px flan;
     text-decoration: none;
     font-family: 'Franklin Gothic Heavy', arial;
     font-size: 20px;
     text-shadow: 4px 4px 4px #aaa;
-
-
-
-
 
 }
 
@@ -67,7 +62,7 @@ li a:hover:not(.active) {
 	width: 700px;
 	height: 500px;
 	float: left;
-	background: #fff;
+	background: #005883;
 	margin-right: 10px;
 }
 
@@ -75,7 +70,8 @@ li a:hover:not(.active) {
 	font-size: 40px;
 	text-align: center;
 	line-height: 500px;
-	color: black;
+	color: white;
+
 }
 
 aside {
@@ -94,7 +90,8 @@ aside h2 {
 
 footer{
 	background: #F0B429;
-	clear: both;
+	clear: both
+
 }
 
 footer h2 {
