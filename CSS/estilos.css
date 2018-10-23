@@ -18,8 +18,9 @@ body {
 }
 
 header{
-	height: 150px;
-	background: #005883
+	height: 100px;
+	background: #FFFFFF
+
 }
 
 header h1 {
@@ -27,6 +28,7 @@ header h1 {
 	text-align: right;
 	line-height: 130px;
 }
+
 
 
 ul {
@@ -39,6 +41,7 @@ ul {
 
 li {
     float: left;
+
 }
 
 li a {
@@ -49,19 +52,14 @@ li a {
     font:bold 16px flan;
     text-decoration: none;
     font-family: 'Franklin Gothic Heavy', arial;
-    font-size: 20px;
+    font-size: 17px;
     text-shadow: 4px 4px 4px #aaa;
-
-
-
-
 
 }
 
 li a:hover:not(.active) {
     background-color: #f2d679;
 }
-
 
 
 #contenido {
@@ -111,6 +109,7 @@ aside h2 {
 	text-align: center;
 	line-height: 500px;
 }
+
 
 footer{
 	background: #F0B429;
