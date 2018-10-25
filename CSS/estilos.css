@@ -128,6 +128,21 @@ footer h2 {
     line-height: 50px;
     
 }
+#contenido2{
+	border-style:solid;
+}
+
+iframe{
+	position: relative;
+	left:300px;
+}
+#video2 {
+	position: relative;
+	left:0px;
+	top:0px;
+	right:300px;
+}
+
 
 
 
