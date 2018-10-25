@@ -114,8 +114,9 @@ aside h2 {
 
 
 footer{
+	position: fixed;
+	bottom: 0;
 	background: #F0B429;
-	clear: both
 }
 
 footer h2 {
@@ -125,4 +126,9 @@ footer h2 {
     font-size: 20px;
     text-shadow: 4px 4px 4px #aaa;
     line-height: 50px;
+    
 }
+
+
+
+
