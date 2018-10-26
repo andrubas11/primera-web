@@ -165,12 +165,13 @@ iframe{
 	position: relative;
 	left:300px;
 }
-#video2 {
+/*#video2 {
 	position: relative;
-	left:0px;
+	float: center;
+	/*left:0px;
 	top:0px;
-	right:300px;
-}
+	right:0px;*/
+
 
 
 
