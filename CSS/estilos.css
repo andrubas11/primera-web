@@ -31,20 +31,12 @@ header h1 {
 
 /* menu */
 
-#inicio.jpg{
-  position:fixed;
-  right:0;
-  width: 16px;
-  height: 16px;
-}
-
 #menu ul {
  list-style:none;
  margin:0;
  padding:0;
 
 }
-
 
 /* items del menu */
 
