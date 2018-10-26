@@ -102,7 +102,7 @@ aside {
 	width: 250px;
 	height: 500px;
 	background: #005883;
-	margin-top: 10;
+	margin-top: 0;
 	float: right;
 }
 
@@ -114,9 +114,9 @@ aside h2 {
 
 
 footer{
-	position: fixed;
-	bottom: 0;
+	position: relative;
 	background: #F0B429;
+	margin-top: 500;
 }
 
 footer h2 {
