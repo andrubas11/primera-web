@@ -149,16 +149,25 @@ footer{
 }
 
 footer h2 {
-	font-size: 40px;
+	font-size: 20px;
 	text-align: center;
 	font-family: 'Franklin Gothic Heavy', arial;
     font-size: 20px;
-    text-shadow: 4px 4px 4px #aaa;
-    line-height: 50px;
+    text-shadow: 2px 2px 2px #aaa;
+    line-height: 20px;
     
 }
 #contenido2{
 	border-style:solid;
+}
+
+}
+#Sello{
+	border-style:solid;
+	font-size: 20px;
+    text-shadow: 4px 4px 4px #aaa;
+    line-height: 20px;
+
 }
 
 iframe{
